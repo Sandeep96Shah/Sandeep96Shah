@@ -62,7 +62,7 @@ Outside of work, I enjoy exploring new technologies, improving my system design 
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/sandeep96shah/](Sandeep96Shah)
+- 💼 LinkedIn: [https://www.linkedin.com/in/sandeep96shah/](https://www.linkedin.com/in/sandeep96shah/)
 - 💻 GitHub: https://github.com/Sandeep96Shah
 - 📧 Email: sandeep2016shah@gmail.com
 
