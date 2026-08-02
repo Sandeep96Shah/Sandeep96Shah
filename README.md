@@ -19,7 +19,7 @@ I'm a **Full Stack Developer** with **4.5+ years of experience** building scalab
 
 - 🚀 4.5+ years of experience developing enterprise-grade web applications.
 - 🏗️ Built scalable applications across **Mining, Healthcare, and Logistics** domains.
-- ⚡ Designed and implemented **15+ REST APIs** using ASP.NET Core and the CQRS pattern.
+- ⚡ Designed and implemented **REST APIs** using ASP.NET Core and the CQRS pattern.
 - 🎯 Developed reusable React components and metadata-driven dynamic forms.
 - 📉 Reduced frontend bundle size by **30%**, improving application performance.
 - 🚀 Improved build and deployment times by **40%** through modern build tooling and CI/CD.
