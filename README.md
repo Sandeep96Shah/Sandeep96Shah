@@ -50,7 +50,6 @@ Outside of work, I enjoy exploring new technologies, improving my system design 
 
 ## 📊 GitHub Stats
 
-<!-- Replace 'Sandeep96Shah' if your GitHub username changes -->
 
 ![](https://github-readme-stats.vercel.app/api?username=Sandeep96Shah&show_icons=true&theme=tokyonight&hide_border=true)
 
